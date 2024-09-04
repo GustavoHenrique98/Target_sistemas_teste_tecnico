@@ -84,7 +84,7 @@ Debug
  c) 0, 1, 4, 9, 16, 25, 36, ____ >>>>>>>>>> 49
 
 Debug
-    2^2 4^2  6^2 8^2 6^2 
+    2**2 4**2  6**2 8**2 6**2 
     d) 4, 16, 36, 64, ____ >>>>>>>>>>>>  100
 
  e) 1, 1, 2, 3, 5, 8, ____ >>>>>>>>>> 13
@@ -107,5 +107,5 @@ Aparentemente é casca de banana!
    A lâmpada que está fria e referente ao interruptor 3 que eu nem liguei portanto a lampada fica fria.
 
 
-    Agora para saber quanl é a sala que corresponde a terceira lâmpada. 
+    
 */
